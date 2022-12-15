@@ -1,0 +1,2 @@
+# [Criando um deploy de uma aplicação](https://docs.google.com/presentation/d/1sy2twjdQiZGR71nY4zPSKm6R_q2h5D4lDycmxOxRhk4/edit?usp=sharing)
+Projeto feito a fim de praticar meus conhecimentos em Kubernetes, sendo desenvolvido as imagens dos containers (backend em PHP e banco de dados MySQL), os serviços de Load Balancer e conexão com o banco de dados, a persistência de dados e o deploy dos pods. Teste realizado no minikube.
